@@ -11,6 +11,8 @@ Hi
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/kayaaz.x) 
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=muratwin3439&show_icons=true&theme=radical) 
+ <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IbrahimTalha0&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
+
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
@@ -47,8 +49,7 @@ Hi
 
 ### GitHub Analytics 📊
 
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IbrahimTalha0&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
-</a>
+ 
 
 <br />
 <br />
