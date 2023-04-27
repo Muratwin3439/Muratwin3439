@@ -4,7 +4,7 @@
 
 Hi
 
- [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/719621316063526980?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/719621316063526980)
+ [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/719621316063526980?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/254283210660380673)
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://www.github.com/muratwin3439) 
